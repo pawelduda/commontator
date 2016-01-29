@@ -34,7 +34,9 @@ module Commontator
     :thread_subscription,
     :email_from_proc,
     :commontable_name_proc,
-    :commontable_url_proc
+    :commontable_url_proc,
+    :project,
+    :permission
   ]
   
   DEPRECATED_ATTRIBUTES = [
